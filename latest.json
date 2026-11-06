@@ -1,35 +1,47 @@
 {
   "stable": {
-    "version": "0.2.6",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.6.zip",
-    "sha256": "4c2ecfa15f4d0e0783ee8878f41505db6cf31b2b4f383d2d632e2ad9249fb7c8",
-    "size": 349839,
+    "version": "0.2.7",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.7.zip",
+    "sha256": "3d2665cd8e6c4c3c1beeb0440245b4a1b6965ec20e4e83bb4c18ce1ede3f3934",
+    "size": 350547,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
+        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
       ],
       "en": [
-        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
+        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
       ]
     }
   },
   "test": {
-    "version": "0.2.6",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.6.zip",
-    "sha256": "4c2ecfa15f4d0e0783ee8878f41505db6cf31b2b4f383d2d632e2ad9249fb7c8",
-    "size": 349839,
+    "version": "0.2.7",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.7.zip",
+    "sha256": "3d2665cd8e6c4c3c1beeb0440245b4a1b6965ec20e4e83bb4c18ce1ede3f3934",
+    "size": 350547,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
+        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
       ],
       "en": [
-        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
+        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.2.7",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
+        ],
+        "en": [
+          "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
+        ]
+      }
+    },
     {
       "version": "0.2.6",
       "date": "2026-11-06",
