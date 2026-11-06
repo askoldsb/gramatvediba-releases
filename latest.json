@@ -1,39 +1,47 @@
 {
   "stable": {
-    "version": "0.2.5",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.5.zip",
-    "sha256": "44844e9f93137a13c6392a56cd8c9a05b8addd6dcefb07817b48791b41b9ebb4",
-    "size": 349461,
+    "version": "0.2.6",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.6.zip",
+    "sha256": "4c2ecfa15f4d0e0783ee8878f41505db6cf31b2b4f383d2d632e2ad9249fb7c8",
+    "size": 349839,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
-        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
+        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
       ],
       "en": [
-        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
-        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
+        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
       ]
     }
   },
   "test": {
-    "version": "0.2.5",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.5.zip",
-    "sha256": "44844e9f93137a13c6392a56cd8c9a05b8addd6dcefb07817b48791b41b9ebb4",
-    "size": 349461,
+    "version": "0.2.6",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.6.zip",
+    "sha256": "4c2ecfa15f4d0e0783ee8878f41505db6cf31b2b4f383d2d632e2ad9249fb7c8",
+    "size": 349839,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
-        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
+        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
       ],
       "en": [
-        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
-        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
+        "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.2.6",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
+        ],
+        "en": [
+          "Pāra meklēšanas logā poga “Sasaistīt” ir katras rindas sākumā un vienmēr redzama, garie apraksti tiek saīsināti; var klikšķināt arī uz visas rindas."
+        ]
+      }
+    },
     {
       "version": "0.2.5",
       "date": "2026-11-06",
