@@ -1,55 +1,53 @@
 {
   "stable": {
-    "version": "0.2.4",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.4.zip",
-    "sha256": "5110511c5fbcc37612ad371517a6b8656445e9df85120af1d28255898117bed6",
-    "size": 348067,
+    "version": "0.2.5",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.5.zip",
+    "sha256": "44844e9f93137a13c6392a56cd8c9a05b8addd6dcefb07817b48791b41b9ebb4",
+    "size": 349461,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
-        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
-        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
-        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
-        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
-        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
+        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
+        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
       ],
       "en": [
-        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
-        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
-        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
-        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
-        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
-        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
+        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
+        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
       ]
     }
   },
   "test": {
-    "version": "0.2.4",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.4.zip",
-    "sha256": "5110511c5fbcc37612ad371517a6b8656445e9df85120af1d28255898117bed6",
-    "size": 348067,
+    "version": "0.2.5",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.5.zip",
+    "sha256": "44844e9f93137a13c6392a56cd8c9a05b8addd6dcefb07817b48791b41b9ebb4",
+    "size": 349461,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
-        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
-        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
-        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
-        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
-        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
+        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
+        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
       ],
       "en": [
-        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
-        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
-        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
-        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
-        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
-        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
+        "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
+        "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.2.5",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
+          "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
+        ],
+        "en": [
+          "Atmaksas: pirkumu un naudu, ko tirgotājs atdeva atpakaļ, var sasaistīt kā pāri, arī vienā kontā un ar lielāku laika starpību (līdz 120 dienām). Abas puses neskaitās ne izdevumos, ne ienākumos.",
+          "Sadaļā Darījumi pie katra darījuma ir poga ⇄ — sasaistīt ar otru darījumu (pārskaitījums, maiņa vai atmaksa)."
+        ]
+      }
+    },
     {
       "version": "0.2.4",
       "date": "2026-11-06",
