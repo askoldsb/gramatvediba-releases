@@ -1,0 +1,70 @@
+{
+  "stable": {
+    "version": "0.2.1",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.1.zip",
+    "sha256": "c9c86f4b65856a63016cdfd684384f3d9ae840065b7fba64d9ecb984c1f3d9c5",
+    "size": 338813,
+    "date": "2026-11-06",
+    "notes": {
+      "lv": [
+        "Pārskaitījumi starp saviem kontiem: programma pati atrod pārus (PayPal → Revolut/Nexo, Swedbank ↔ Swedbank, Revolut → Swedbank); tie neskaitās ne ienākumos, ne izdevumos. Jaunā sadaļa “Pārskaitījumi”.",
+        "Valūtas maiņa: ienākums (piem. Shutterstock USD PayPal) tiek novērtēts ar faktisko maiņas kursu tajā brīdī.",
+        "Pārskatā redzams, cik naudas pārvietots uz / no otras grāmatvedības.",
+        "Revolut CSV latviešu valodā.",
+        "Atjauninājumi no sava repozitorija askoldsb/gramatvediba-releases."
+      ],
+      "en": [
+        "Pārskaitījumi starp saviem kontiem: programma pati atrod pārus (PayPal → Revolut/Nexo, Swedbank ↔ Swedbank, Revolut → Swedbank); tie neskaitās ne ienākumos, ne izdevumos. Jaunā sadaļa “Pārskaitījumi”.",
+        "Valūtas maiņa: ienākums (piem. Shutterstock USD PayPal) tiek novērtēts ar faktisko maiņas kursu tajā brīdī.",
+        "Pārskatā redzams, cik naudas pārvietots uz / no otras grāmatvedības.",
+        "Revolut CSV latviešu valodā.",
+        "Atjauninājumi no sava repozitorija askoldsb/gramatvediba-releases."
+      ]
+    }
+  },
+  "test": {
+    "version": "0.2.1",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.1.zip",
+    "sha256": "c9c86f4b65856a63016cdfd684384f3d9ae840065b7fba64d9ecb984c1f3d9c5",
+    "size": 338813,
+    "date": "2026-11-06",
+    "notes": {
+      "lv": [
+        "Pārskaitījumi starp saviem kontiem: programma pati atrod pārus (PayPal → Revolut/Nexo, Swedbank ↔ Swedbank, Revolut → Swedbank); tie neskaitās ne ienākumos, ne izdevumos. Jaunā sadaļa “Pārskaitījumi”.",
+        "Valūtas maiņa: ienākums (piem. Shutterstock USD PayPal) tiek novērtēts ar faktisko maiņas kursu tajā brīdī.",
+        "Pārskatā redzams, cik naudas pārvietots uz / no otras grāmatvedības.",
+        "Revolut CSV latviešu valodā.",
+        "Atjauninājumi no sava repozitorija askoldsb/gramatvediba-releases."
+      ],
+      "en": [
+        "Pārskaitījumi starp saviem kontiem: programma pati atrod pārus (PayPal → Revolut/Nexo, Swedbank ↔ Swedbank, Revolut → Swedbank); tie neskaitās ne ienākumos, ne izdevumos. Jaunā sadaļa “Pārskaitījumi”.",
+        "Valūtas maiņa: ienākums (piem. Shutterstock USD PayPal) tiek novērtēts ar faktisko maiņas kursu tajā brīdī.",
+        "Pārskatā redzams, cik naudas pārvietots uz / no otras grāmatvedības.",
+        "Revolut CSV latviešu valodā.",
+        "Atjauninājumi no sava repozitorija askoldsb/gramatvediba-releases."
+      ]
+    }
+  },
+  "history": [
+    {
+      "version": "0.2.1",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "Pārskaitījumi starp saviem kontiem: programma pati atrod pārus (PayPal → Revolut/Nexo, Swedbank ↔ Swedbank, Revolut → Swedbank); tie neskaitās ne ienākumos, ne izdevumos. Jaunā sadaļa “Pārskaitījumi”.",
+          "Valūtas maiņa: ienākums (piem. Shutterstock USD PayPal) tiek novērtēts ar faktisko maiņas kursu tajā brīdī.",
+          "Pārskatā redzams, cik naudas pārvietots uz / no otras grāmatvedības.",
+          "Revolut CSV latviešu valodā.",
+          "Atjauninājumi no sava repozitorija askoldsb/gramatvediba-releases."
+        ],
+        "en": [
+          "Pārskaitījumi starp saviem kontiem: programma pati atrod pārus (PayPal → Revolut/Nexo, Swedbank ↔ Swedbank, Revolut → Swedbank); tie neskaitās ne ienākumos, ne izdevumos. Jaunā sadaļa “Pārskaitījumi”.",
+          "Valūtas maiņa: ienākums (piem. Shutterstock USD PayPal) tiek novērtēts ar faktisko maiņas kursu tajā brīdī.",
+          "Pārskatā redzams, cik naudas pārvietots uz / no otras grāmatvedības.",
+          "Revolut CSV latviešu valodā.",
+          "Atjauninājumi no sava repozitorija askoldsb/gramatvediba-releases."
+        ]
+      }
+    }
+  ]
+}
