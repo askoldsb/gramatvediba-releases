@@ -1,47 +1,59 @@
 {
   "stable": {
-    "version": "0.2.2",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.2.zip",
-    "sha256": "23ec74baa9c87733a6c607158c7779ef527edea87326f6260dcb3b85c302644c",
-    "size": 344439,
+    "version": "0.2.3",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.3.zip",
+    "sha256": "5da6ba46ab72a4eda362886914ca283a2c868ac44a9aa8e6df629ac947142a5d",
+    "size": 345513,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Nexo: kartes pirkumi tiek ieskaitīti pareizi: viens izdevums ar veikala nosaukumu un atsevišķa FX komisija. Nexo iekšējie norēķini (Withdraw Exchanged, Exchange Deposited On) un USD kredītlīnijas ekvivalents vairs netiek skaitīti. EUR un EURX ir viens konts “Nexo EUR”. Lai salabotu, vēlreiz ielādē Nexo failu: vecie ieraksti tiek aizstāti automātiski.",
-        "PayPal: tiek atpazīts arī eksports “Activity download” (Amount / Fees / Total / Exchange Rate). PayPal atlikums tiek ņemts no jaunākā ieraksta.",
-        "Revolut: gaidošie (vēl neapstiprinātie) maksājumi tiek ieskaitīti atlikumā un atzīmēti “gaida”, un nākamais imports tos aizstāj.",
-        "Jaunas kategorizēšanas kārtulas biežākajiem tirgotājiem (DUS, kafejnīcas, restorāni, Drogas, Apotheka, Depo, Senukai, Midjourney, Anthropic u.c.)."
+        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
+        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
+        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
       ],
       "en": [
-        "Nexo: kartes pirkumi tiek ieskaitīti pareizi: viens izdevums ar veikala nosaukumu un atsevišķa FX komisija. Nexo iekšējie norēķini (Withdraw Exchanged, Exchange Deposited On) un USD kredītlīnijas ekvivalents vairs netiek skaitīti. EUR un EURX ir viens konts “Nexo EUR”. Lai salabotu, vēlreiz ielādē Nexo failu: vecie ieraksti tiek aizstāti automātiski.",
-        "PayPal: tiek atpazīts arī eksports “Activity download” (Amount / Fees / Total / Exchange Rate). PayPal atlikums tiek ņemts no jaunākā ieraksta.",
-        "Revolut: gaidošie (vēl neapstiprinātie) maksājumi tiek ieskaitīti atlikumā un atzīmēti “gaida”, un nākamais imports tos aizstāj.",
-        "Jaunas kategorizēšanas kārtulas biežākajiem tirgotājiem (DUS, kafejnīcas, restorāni, Drogas, Apotheka, Depo, Senukai, Midjourney, Anthropic u.c.)."
+        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
+        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
+        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
       ]
     }
   },
   "test": {
-    "version": "0.2.2",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.2.zip",
-    "sha256": "23ec74baa9c87733a6c607158c7779ef527edea87326f6260dcb3b85c302644c",
-    "size": 344439,
+    "version": "0.2.3",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.3.zip",
+    "sha256": "5da6ba46ab72a4eda362886914ca283a2c868ac44a9aa8e6df629ac947142a5d",
+    "size": 345513,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Nexo: kartes pirkumi tiek ieskaitīti pareizi: viens izdevums ar veikala nosaukumu un atsevišķa FX komisija. Nexo iekšējie norēķini (Withdraw Exchanged, Exchange Deposited On) un USD kredītlīnijas ekvivalents vairs netiek skaitīti. EUR un EURX ir viens konts “Nexo EUR”. Lai salabotu, vēlreiz ielādē Nexo failu: vecie ieraksti tiek aizstāti automātiski.",
-        "PayPal: tiek atpazīts arī eksports “Activity download” (Amount / Fees / Total / Exchange Rate). PayPal atlikums tiek ņemts no jaunākā ieraksta.",
-        "Revolut: gaidošie (vēl neapstiprinātie) maksājumi tiek ieskaitīti atlikumā un atzīmēti “gaida”, un nākamais imports tos aizstāj.",
-        "Jaunas kategorizēšanas kārtulas biežākajiem tirgotājiem (DUS, kafejnīcas, restorāni, Drogas, Apotheka, Depo, Senukai, Midjourney, Anthropic u.c.)."
+        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
+        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
+        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
       ],
       "en": [
-        "Nexo: kartes pirkumi tiek ieskaitīti pareizi: viens izdevums ar veikala nosaukumu un atsevišķa FX komisija. Nexo iekšējie norēķini (Withdraw Exchanged, Exchange Deposited On) un USD kredītlīnijas ekvivalents vairs netiek skaitīti. EUR un EURX ir viens konts “Nexo EUR”. Lai salabotu, vēlreiz ielādē Nexo failu: vecie ieraksti tiek aizstāti automātiski.",
-        "PayPal: tiek atpazīts arī eksports “Activity download” (Amount / Fees / Total / Exchange Rate). PayPal atlikums tiek ņemts no jaunākā ieraksta.",
-        "Revolut: gaidošie (vēl neapstiprinātie) maksājumi tiek ieskaitīti atlikumā un atzīmēti “gaida”, un nākamais imports tos aizstāj.",
-        "Jaunas kategorizēšanas kārtulas biežākajiem tirgotājiem (DUS, kafejnīcas, restorāni, Drogas, Apotheka, Depo, Senukai, Midjourney, Anthropic u.c.)."
+        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
+        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
+        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.2.3",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
+          "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
+          "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
+        ],
+        "en": [
+          "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
+          "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
+          "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
+        ]
+      }
+    },
     {
       "version": "0.2.2",
       "date": "2026-11-06",
