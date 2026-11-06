@@ -1,43 +1,77 @@
 {
   "stable": {
-    "version": "0.2.3",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.3.zip",
-    "sha256": "5da6ba46ab72a4eda362886914ca283a2c868ac44a9aa8e6df629ac947142a5d",
-    "size": 345513,
+    "version": "0.2.4",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.4.zip",
+    "sha256": "5110511c5fbcc37612ad371517a6b8656445e9df85120af1d28255898117bed6",
+    "size": 348067,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
-        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
-        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
+        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
+        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
+        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
+        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
+        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
+        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
       ],
       "en": [
-        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
-        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
-        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
+        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
+        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
+        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
+        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
+        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
+        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
       ]
     }
   },
   "test": {
-    "version": "0.2.3",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.3.zip",
-    "sha256": "5da6ba46ab72a4eda362886914ca283a2c868ac44a9aa8e6df629ac947142a5d",
-    "size": 345513,
+    "version": "0.2.4",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.4.zip",
+    "sha256": "5110511c5fbcc37612ad371517a6b8656445e9df85120af1d28255898117bed6",
+    "size": 348067,
     "date": "2026-11-06",
     "notes": {
       "lv": [
-        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
-        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
-        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
+        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
+        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
+        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
+        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
+        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
+        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
       ],
       "en": [
-        "Pārskatā izcelts “Pieejamais atlikums” (visu kontu kopsumma eiro), un atlikumu tabulā ir rinda “Kopā”.",
-        "“Kavēti maksājumi” tiek rādīti tikai, ja grāmatvedībā ir saistības vai rēķini.",
-        "Brīdinājums par trūkstošu valūtas kursu tikai, ja kontā tiešām ir nauda (tukšie PayPal GBP/USD vairs netraucē)."
+        "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
+        "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
+        "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
+        "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
+        "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
+        "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.2.4",
+      "date": "2026-11-06",
+      "notes": {
+        "lv": [
+          "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
+          "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
+          "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
+          "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
+          "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
+          "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
+        ],
+        "en": [
+          "PayPal: izņemšanas ar statusu “Processing” tiek ieskaitītas, tāpēc PayPal → Revolut un PayPal → Nexo pārskaitījumi tagad sapārojas paši. Rezervācijas (Authorization / Account Hold) netiek skaitītas.",
+          "Nexo iemaksas (“Deposit To Exchange”) sapārojas ar PayPal izņemšanām.",
+          "Katrai fotobankai sava ienākumu kategorija: Envato, EyeEm, Zoonar, Freepik / Magnific, 123RF, Alamy, Depositphotos, Bigstock, Vecteezy, Ingram u.c.",
+          "USD izmaksas kurss tiek ņemts no tieši šīs summas maiņas PayPal.",
+          "Jaunas kārtulas: ceļojumi (Ryanair, GetYourGuide, viesnīcas), skaidra nauda (bankomāts), Claude, AliExpress, veikali u.c.",
+          "Pēc atjaunināšanas vēlreiz ielādē PayPal failu."
+        ]
+      }
+    },
     {
       "version": "0.2.3",
       "date": "2026-11-06",
