@@ -1,35 +1,77 @@
 {
   "stable": {
-    "version": "0.2.7",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.7.zip",
-    "sha256": "3d2665cd8e6c4c3c1beeb0440245b4a1b6965ec20e4e83bb4c18ce1ede3f3934",
-    "size": 350547,
-    "date": "2026-11-06",
+    "version": "0.3.0",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.3.0.zip",
+    "sha256": "330c1df7595261084992d24582aaf7b808d1e636a3f06ca4b061d8599b42a958",
+    "size": 365705,
+    "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
+        "Jauna sadaļa ✈️ Ceļojumi: kartes pirkumi ceļojuma datumos pieder ceļojumam automātiski (pēc īstā pirkuma datuma); ceļojuma kartīte ar kopsummu, izdevumiem pa veidiem un dienām. Lidojumus u.c. pirms brauciena var pievienot ar roku, nevajadzīgo izņemt. Pārskatā ceļojumu izdevumi skaitās kategorijā “Ceļojumi”.",
+        "Programma iesaka ceļojumus pati pēc ārzemju pirkumiem (ārvalstu valūta Swedbank kartei, valsts Nexo kartei). Lai Nexo pirkumiem parādītos valsts, vēlreiz ielādē Nexo failu.",
+        "Saistības: redzams, cik maksājumu un cik eiro vēl atlicis, un pēdējā maksājuma datums.",
+        "Imports: pie izlaistajiem ierakstiem saite “kāpēc izlaisti?” — katra rinda un iemesls.",
+        "PayPal: pārklājošos failos tie paši darījumi vairs nedublējas; jau radušies dublikāti tiek izdzēsti automātiski.",
+        "Pārskaitījumi starp saviem Swedbank kontiem (“Maksājums starp saviem kontiem”) tiek sapāroti."
       ],
       "en": [
-        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
+        "Jauna sadaļa ✈️ Ceļojumi: kartes pirkumi ceļojuma datumos pieder ceļojumam automātiski (pēc īstā pirkuma datuma); ceļojuma kartīte ar kopsummu, izdevumiem pa veidiem un dienām. Lidojumus u.c. pirms brauciena var pievienot ar roku, nevajadzīgo izņemt. Pārskatā ceļojumu izdevumi skaitās kategorijā “Ceļojumi”.",
+        "Programma iesaka ceļojumus pati pēc ārzemju pirkumiem (ārvalstu valūta Swedbank kartei, valsts Nexo kartei). Lai Nexo pirkumiem parādītos valsts, vēlreiz ielādē Nexo failu.",
+        "Saistības: redzams, cik maksājumu un cik eiro vēl atlicis, un pēdējā maksājuma datums.",
+        "Imports: pie izlaistajiem ierakstiem saite “kāpēc izlaisti?” — katra rinda un iemesls.",
+        "PayPal: pārklājošos failos tie paši darījumi vairs nedublējas; jau radušies dublikāti tiek izdzēsti automātiski.",
+        "Pārskaitījumi starp saviem Swedbank kontiem (“Maksājums starp saviem kontiem”) tiek sapāroti."
       ]
     }
   },
   "test": {
-    "version": "0.2.7",
-    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.2.7.zip",
-    "sha256": "3d2665cd8e6c4c3c1beeb0440245b4a1b6965ec20e4e83bb4c18ce1ede3f3934",
-    "size": 350547,
-    "date": "2026-11-06",
+    "version": "0.3.0",
+    "url": "https://raw.githubusercontent.com/askoldsb/gramatvediba-releases/main/releases/gramatvediba-0.3.0.zip",
+    "sha256": "330c1df7595261084992d24582aaf7b808d1e636a3f06ca4b061d8599b42a958",
+    "size": 365705,
+    "date": "2026-11-10",
     "notes": {
       "lv": [
-        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
+        "Jauna sadaļa ✈️ Ceļojumi: kartes pirkumi ceļojuma datumos pieder ceļojumam automātiski (pēc īstā pirkuma datuma); ceļojuma kartīte ar kopsummu, izdevumiem pa veidiem un dienām. Lidojumus u.c. pirms brauciena var pievienot ar roku, nevajadzīgo izņemt. Pārskatā ceļojumu izdevumi skaitās kategorijā “Ceļojumi”.",
+        "Programma iesaka ceļojumus pati pēc ārzemju pirkumiem (ārvalstu valūta Swedbank kartei, valsts Nexo kartei). Lai Nexo pirkumiem parādītos valsts, vēlreiz ielādē Nexo failu.",
+        "Saistības: redzams, cik maksājumu un cik eiro vēl atlicis, un pēdējā maksājuma datums.",
+        "Imports: pie izlaistajiem ierakstiem saite “kāpēc izlaisti?” — katra rinda un iemesls.",
+        "PayPal: pārklājošos failos tie paši darījumi vairs nedublējas; jau radušies dublikāti tiek izdzēsti automātiski.",
+        "Pārskaitījumi starp saviem Swedbank kontiem (“Maksājums starp saviem kontiem”) tiek sapāroti."
       ],
       "en": [
-        "Saistībām var norādīt “Pēdējais maksājums” (mēnesis ieskaitot) — maksājumu skaits nav jārēķina pašam. Saistību sarakstā redzams, līdz kuram datumam."
+        "Jauna sadaļa ✈️ Ceļojumi: kartes pirkumi ceļojuma datumos pieder ceļojumam automātiski (pēc īstā pirkuma datuma); ceļojuma kartīte ar kopsummu, izdevumiem pa veidiem un dienām. Lidojumus u.c. pirms brauciena var pievienot ar roku, nevajadzīgo izņemt. Pārskatā ceļojumu izdevumi skaitās kategorijā “Ceļojumi”.",
+        "Programma iesaka ceļojumus pati pēc ārzemju pirkumiem (ārvalstu valūta Swedbank kartei, valsts Nexo kartei). Lai Nexo pirkumiem parādītos valsts, vēlreiz ielādē Nexo failu.",
+        "Saistības: redzams, cik maksājumu un cik eiro vēl atlicis, un pēdējā maksājuma datums.",
+        "Imports: pie izlaistajiem ierakstiem saite “kāpēc izlaisti?” — katra rinda un iemesls.",
+        "PayPal: pārklājošos failos tie paši darījumi vairs nedublējas; jau radušies dublikāti tiek izdzēsti automātiski.",
+        "Pārskaitījumi starp saviem Swedbank kontiem (“Maksājums starp saviem kontiem”) tiek sapāroti."
       ]
     }
   },
   "history": [
+    {
+      "version": "0.3.0",
+      "date": "2026-11-10",
+      "notes": {
+        "lv": [
+          "Jauna sadaļa ✈️ Ceļojumi: kartes pirkumi ceļojuma datumos pieder ceļojumam automātiski (pēc īstā pirkuma datuma); ceļojuma kartīte ar kopsummu, izdevumiem pa veidiem un dienām. Lidojumus u.c. pirms brauciena var pievienot ar roku, nevajadzīgo izņemt. Pārskatā ceļojumu izdevumi skaitās kategorijā “Ceļojumi”.",
+          "Programma iesaka ceļojumus pati pēc ārzemju pirkumiem (ārvalstu valūta Swedbank kartei, valsts Nexo kartei). Lai Nexo pirkumiem parādītos valsts, vēlreiz ielādē Nexo failu.",
+          "Saistības: redzams, cik maksājumu un cik eiro vēl atlicis, un pēdējā maksājuma datums.",
+          "Imports: pie izlaistajiem ierakstiem saite “kāpēc izlaisti?” — katra rinda un iemesls.",
+          "PayPal: pārklājošos failos tie paši darījumi vairs nedublējas; jau radušies dublikāti tiek izdzēsti automātiski.",
+          "Pārskaitījumi starp saviem Swedbank kontiem (“Maksājums starp saviem kontiem”) tiek sapāroti."
+        ],
+        "en": [
+          "Jauna sadaļa ✈️ Ceļojumi: kartes pirkumi ceļojuma datumos pieder ceļojumam automātiski (pēc īstā pirkuma datuma); ceļojuma kartīte ar kopsummu, izdevumiem pa veidiem un dienām. Lidojumus u.c. pirms brauciena var pievienot ar roku, nevajadzīgo izņemt. Pārskatā ceļojumu izdevumi skaitās kategorijā “Ceļojumi”.",
+          "Programma iesaka ceļojumus pati pēc ārzemju pirkumiem (ārvalstu valūta Swedbank kartei, valsts Nexo kartei). Lai Nexo pirkumiem parādītos valsts, vēlreiz ielādē Nexo failu.",
+          "Saistības: redzams, cik maksājumu un cik eiro vēl atlicis, un pēdējā maksājuma datums.",
+          "Imports: pie izlaistajiem ierakstiem saite “kāpēc izlaisti?” — katra rinda un iemesls.",
+          "PayPal: pārklājošos failos tie paši darījumi vairs nedublējas; jau radušies dublikāti tiek izdzēsti automātiski.",
+          "Pārskaitījumi starp saviem Swedbank kontiem (“Maksājums starp saviem kontiem”) tiek sapāroti."
+        ]
+      }
+    },
     {
       "version": "0.2.7",
       "date": "2026-11-06",
